@@ -1,8 +1,9 @@
-## GhostWriter for free????❔
-Yep, its here, test out this free Ghostwriter. 
-Only problem, its not built into the editor. 
+## Replit GhostWriter (Kinda like copilot) for free????❔
+Only problem, it's not built into the editor. 
 You can use this model to generate code for you.
 
+### About
+This is an example of how to use Codegen.
 
 ### Customization
 Adjust the values in generate.py to optimize the AI for what you need. If you have enough storage, try loading one of the bigger models. 
